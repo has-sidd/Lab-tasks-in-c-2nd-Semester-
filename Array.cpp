@@ -4,16 +4,16 @@ using namespace std;
 
 int main()
 {
-	int std[10];
-	cout << "\nEnter Marks :";
-
-	for (int i = 0; i <= 10; i++)
+	int std[4];
+	for (int i = 0; i <= 4; i++)
 	{
-		cin >> std[i];
+		cout << "\nEnter Marks :";
+		cin >> std[i];	
 	}
-	for (int i = 0; i <= 10; i++)
+	cout << "\nStudents Marks are:";
+	for (int i = 0; i <= 4; i++)
 	{
-		cout << std[i] << '\n';
+		cout << std[i];
 	}
 	_getch();
 	return 0;
