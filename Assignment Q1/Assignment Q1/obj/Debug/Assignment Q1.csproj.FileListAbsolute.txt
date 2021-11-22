@@ -1,9 +1,0 @@
-E:\Hassaan Siddiqui\University\2nd Sem\C#\Assignment Q1\Assignment Q1\bin\Debug\Assignment Q1.exe.config
-E:\Hassaan Siddiqui\University\2nd Sem\C#\Assignment Q1\Assignment Q1\bin\Debug\Assignment Q1.exe
-E:\Hassaan Siddiqui\University\2nd Sem\C#\Assignment Q1\Assignment Q1\bin\Debug\Assignment Q1.pdb
-E:\Hassaan Siddiqui\University\2nd Sem\C#\Assignment Q1\Assignment Q1\obj\Debug\Assignment Q1.csprojResolveAssemblyReference.cache
-E:\Hassaan Siddiqui\University\2nd Sem\C#\Assignment Q1\Assignment Q1\obj\Debug\Assignment_Q1.Form1.resources
-E:\Hassaan Siddiqui\University\2nd Sem\C#\Assignment Q1\Assignment Q1\obj\Debug\Assignment_Q1.Properties.Resources.resources
-E:\Hassaan Siddiqui\University\2nd Sem\C#\Assignment Q1\Assignment Q1\obj\Debug\Assignment Q1.csproj.GenerateResource.Cache
-E:\Hassaan Siddiqui\University\2nd Sem\C#\Assignment Q1\Assignment Q1\obj\Debug\Assignment Q1.exe
-E:\Hassaan Siddiqui\University\2nd Sem\C#\Assignment Q1\Assignment Q1\obj\Debug\Assignment Q1.pdb
