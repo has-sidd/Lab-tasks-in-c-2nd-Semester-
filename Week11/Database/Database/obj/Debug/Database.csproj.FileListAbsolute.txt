@@ -1,0 +1,9 @@
+E:\Hassaan Siddiqui\University\2nd Sem\C#\Lab Tasks\Week 11\Database\Database\bin\Debug\Database.exe.config
+E:\Hassaan Siddiqui\University\2nd Sem\C#\Lab Tasks\Week 11\Database\Database\bin\Debug\Database.exe
+E:\Hassaan Siddiqui\University\2nd Sem\C#\Lab Tasks\Week 11\Database\Database\bin\Debug\Database.pdb
+E:\Hassaan Siddiqui\University\2nd Sem\C#\Lab Tasks\Week 11\Database\Database\obj\Debug\Database.csprojResolveAssemblyReference.cache
+E:\Hassaan Siddiqui\University\2nd Sem\C#\Lab Tasks\Week 11\Database\Database\obj\Debug\Database.Form1.resources
+E:\Hassaan Siddiqui\University\2nd Sem\C#\Lab Tasks\Week 11\Database\Database\obj\Debug\Database.Properties.Resources.resources
+E:\Hassaan Siddiqui\University\2nd Sem\C#\Lab Tasks\Week 11\Database\Database\obj\Debug\Database.csproj.GenerateResource.Cache
+E:\Hassaan Siddiqui\University\2nd Sem\C#\Lab Tasks\Week 11\Database\Database\obj\Debug\Database.exe
+E:\Hassaan Siddiqui\University\2nd Sem\C#\Lab Tasks\Week 11\Database\Database\obj\Debug\Database.pdb
