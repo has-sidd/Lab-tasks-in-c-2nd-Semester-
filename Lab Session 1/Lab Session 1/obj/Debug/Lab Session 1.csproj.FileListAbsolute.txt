@@ -1,0 +1,9 @@
+E:\Hassaan Siddiqui\University\2nd Sem\C#\Lab Session 1\Lab Session 1\bin\Debug\Lab Session 1.exe.config
+E:\Hassaan Siddiqui\University\2nd Sem\C#\Lab Session 1\Lab Session 1\obj\Debug\Lab Session 1.csprojResolveAssemblyReference.cache
+E:\Hassaan Siddiqui\University\2nd Sem\C#\Lab Session 1\Lab Session 1\obj\Debug\Lab_Session_1.Form1.resources
+E:\Hassaan Siddiqui\University\2nd Sem\C#\Lab Session 1\Lab Session 1\obj\Debug\Lab_Session_1.Properties.Resources.resources
+E:\Hassaan Siddiqui\University\2nd Sem\C#\Lab Session 1\Lab Session 1\obj\Debug\Lab Session 1.csproj.GenerateResource.Cache
+E:\Hassaan Siddiqui\University\2nd Sem\C#\Lab Session 1\Lab Session 1\bin\Debug\Lab Session 1.exe
+E:\Hassaan Siddiqui\University\2nd Sem\C#\Lab Session 1\Lab Session 1\bin\Debug\Lab Session 1.pdb
+E:\Hassaan Siddiqui\University\2nd Sem\C#\Lab Session 1\Lab Session 1\obj\Debug\Lab Session 1.exe
+E:\Hassaan Siddiqui\University\2nd Sem\C#\Lab Session 1\Lab Session 1\obj\Debug\Lab Session 1.pdb
